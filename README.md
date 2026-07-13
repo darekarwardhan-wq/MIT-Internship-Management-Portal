@@ -16,54 +16,51 @@ The project focuses on improving efficiency, reducing paperwork, ensuring transp
 
 ---
 
-# Screenshots
-
-## Login Page
+<h3 align="center">Login Page</h3>
 
 <p align="center">
-  <img src="screenshots/Login.png" alt="Login Page" width="900"/>
+<img src="screenshots/Login.png" width="95%">
 </p>
 
----
+<br>
 
-## Student Dashboard
+<table align="center">
+<tr>
+<td align="center">
+<b>Student Dashboard</b><br><br>
+<img src="screenshots/StudentDashboard1.png" width="450">
+</td>
 
-<p align="center">
-  <img src="screenshots/StudentDashboard1.png" alt="Student Dashboard" width="900"/>
-</p>
+<td align="center">
+<b>Weekly Work</b><br><br>
+<img src="screenshots/StudentDashboard2.png" width="450">
+</td>
+</tr>
 
----
+<tr>
+<td align="center">
+<b>Faculty Dashboard</b><br><br>
+<img src="screenshots/Facultydashboard1.png" width="450">
+</td>
 
-## Student Weekly Work
+<td align="center">
+<b>Faculty Analytics</b><br><br>
+<img src="screenshots/Facultydashboard2.png" width="450">
+</td>
+</tr>
 
-<p align="center">
-  <img src="screenshots/StudentDashboard2.png" alt="Student Weekly Work" width="900"/>
-</p>
+<tr>
+<td align="center">
+<b>Student Evaluation</b><br><br>
+<img src="screenshots/Facultydashboard3.png" width="450">
+</td>
 
----
-
-## Faculty Dashboard
-
-<p align="center">
-  <img src="screenshots/Facultydashboard1.png" alt="Faculty Dashboard" width="900"/>
-</p>
-
----
-
-
-## Faculty Analytics
-
-<p align="center">
-  <img src="screenshots/Facultydashboard3.png" alt="Faculty Student Evaluation" width="900"/>
-</p>
-
----
-
-## Admin Dashboard
-
-<p align="center">
-  <img src="screenshots/Admindashboard1.png" alt="Admin Dashboard" width="900"/>
-</p>
+<td align="center">
+<b>Admin Dashboard</b><br><br>
+<img src="screenshots/Admindashboard1.png" width="450">
+</td>
+</tr>
+</table>
 
 # Features
 
