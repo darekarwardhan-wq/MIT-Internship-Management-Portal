@@ -16,33 +16,33 @@ The project focuses on improving efficiency, reducing paperwork, ensuring transp
 
 ---
 
-<h3 align="center">Login Page</h3>
+<h2 align="center">📸 Project Screenshots</h2>
 
-<p align="center">
-<img src="screenshots/Login.png" width="95%">
-</p>
-
-<br>
-
-<table align="center">
+<table>
 <tr>
 <td align="center">
-<b>Student Dashboard</b><br><br>
-<img src="screenshots/StudentDashboard1.png" width="450">
+<b>Login</b><br><br>
+<img src="screenshots/Login.png" width="450">
 </td>
 
 <td align="center">
-<b>Weekly Work</b><br><br>
-<img src="screenshots/StudentDashboard2.png" width="450">
+<b>Student Dashboard</b><br><br>
+<img src="screenshots/StudentDashboard1.png" width="450">
 </td>
 </tr>
 
 <tr>
 <td align="center">
+<b>Weekly Work</b><br><br>
+<img src="screenshots/StudentDashboard2.png" width="450">
+</td>
+
+<td align="center">
 <b>Faculty Dashboard</b><br><br>
 <img src="screenshots/Facultydashboard1.png" width="450">
 </td>
-  
+</tr>
+
 <tr>
 <td align="center">
 <b>Faculty Analytics</b><br><br>
