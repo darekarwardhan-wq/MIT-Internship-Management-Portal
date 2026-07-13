@@ -14,6 +14,64 @@ The project focuses on improving efficiency, reducing paperwork, ensuring transp
 
 ---
 
+---
+
+# Screenshots
+
+## Login Page
+
+<p align="center">
+  <img src="screenshots/Login.png" alt="Login Page" width="900"/>
+</p>
+
+---
+
+## Student Dashboard
+
+<p align="center">
+  <img src="screenshots/StudentDashboard1.png" alt="Student Dashboard" width="900"/>
+</p>
+
+---
+
+## Student Weekly Work
+
+<p align="center">
+  <img src="screenshots/StudentDashboard2.png" alt="Student Weekly Work" width="900"/>
+</p>
+
+---
+
+## Faculty Dashboard
+
+<p align="center">
+  <img src="screenshots/Facultydashboard1.png" alt="Faculty Dashboard" width="900"/>
+</p>
+
+---
+
+## Faculty Analytics
+
+<p align="center">
+  <img src="screenshots/Facultydashboard2.png" alt="Faculty Analytics" width="900"/>
+</p>
+
+---
+
+## Faculty Student Evaluation
+
+<p align="center">
+  <img src="screenshots/Facultydashboard3.png" alt="Faculty Student Evaluation" width="900"/>
+</p>
+
+---
+
+## Admin Dashboard
+
+<p align="center">
+  <img src="screenshots/Admindashboard1.png" alt="Admin Dashboard" width="900"/>
+</p>
+
 # Features
 
 ## Student Module
