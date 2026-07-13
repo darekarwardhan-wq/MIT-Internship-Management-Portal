@@ -50,15 +50,8 @@ The project focuses on improving efficiency, reducing paperwork, ensuring transp
 
 ---
 
+
 ## Faculty Analytics
-
-<p align="center">
-  <img src="screenshots/Facultydashboard2.png" alt="Faculty Analytics" width="900"/>
-</p>
-
----
-
-## Faculty Student Evaluation
 
 <p align="center">
   <img src="screenshots/Facultydashboard3.png" alt="Faculty Student Evaluation" width="900"/>
