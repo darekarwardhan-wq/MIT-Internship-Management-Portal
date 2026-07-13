@@ -42,16 +42,10 @@ The project focuses on improving efficiency, reducing paperwork, ensuring transp
 <b>Faculty Dashboard</b><br><br>
 <img src="screenshots/Facultydashboard1.png" width="450">
 </td>
-
-<td align="center">
-<b>Faculty Analytics</b><br><br>
-<img src="screenshots/Facultydashboard2.png" width="450">
-</td>
-</tr>
-
+  
 <tr>
 <td align="center">
-<b>Student Evaluation</b><br><br>
+<b>Faculty Analytics</b><br><br>
 <img src="screenshots/Facultydashboard3.png" width="450">
 </td>
 
