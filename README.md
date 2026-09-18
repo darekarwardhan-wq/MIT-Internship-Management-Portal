@@ -36,7 +36,8 @@ the internship management process at **MIT Art, Design and Technology University
 <img src="https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3"/>&nbsp;
 <img src="https://img.shields.io/badge/Bootstrap_5-111827?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap 5"/>&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>&nbsp;
-<img src="https://img.shields.io/badge/PHPMailer-111827?style=flat-square&logo=maildotru&logoColor=white" alt="PHPMailer"/>
+<img src="https://img.shields.io/badge/PHPMailer-111827?style=flat-square&logo=maildotru&logoColor=white" alt="PHPMailer"/>&nbsp;
+<img src="https://img.shields.io/badge/Hostinger-111827?style=flat-square&logo=hostinger&logoColor=673DE6" alt="Hostinger"/>
 
 </div>
 
@@ -52,6 +53,7 @@ the internship management process at **MIT Art, Design and Technology University
 - [Project Modules](#-project-modules)
 - [Folder Structure](#-folder-structure)
 - [Installation](#-installation)
+- [Deployment & Domain](#-deployment--domain)
 - [Future Enhancements](#-future-enhancements)
 - [Project Team](#-project-team)
 - [Author](#-author)
@@ -156,6 +158,7 @@ It gives **Students**, **Faculty Members**, and **Administrators** a centralized
 | **Backend** | PHP |
 | **Database** | MySQL |
 | **Libraries** | PHPMailer |
+| **Hosting & Domain** | Hostinger |
 
 <div align="right"><a href="#-table-of-contents">⬆️ Back to top</a></div>
 
@@ -252,6 +255,36 @@ Start **Apache** and **MySQL** from your server control panel.
 ### 7. Launch the app
 
 Open the project in your browser to get started.
+
+<div align="right"><a href="#-table-of-contents">⬆️ Back to top</a></div>
+
+---
+
+## 🚀 Deployment & Domain
+
+The portal is deployed and live at **[mitinternship.online](https://mitinternship.online)**, hosted on **Hostinger**.
+
+| | |
+|---|---|
+| 🌐 **Hosting Provider** | Hostinger |
+| 🔗 **Live Domain** | [mitinternship.online](https://mitinternship.online) |
+| 🖥️ **Server Stack** | Apache, PHP, MySQL |
+| 🔒 **SSL** | Enabled (HTTPS) |
+
+<div align="center">
+
+[![Hosted on Hostinger](https://img.shields.io/badge/Hosted_on-Hostinger-111827?style=for-the-badge&logo=hostinger&logoColor=673DE6)](https://www.hostinger.com/)
+
+</div>
+
+To deploy your own instance on Hostinger (or any shared/VPS PHP hosting):
+
+1. Purchase a hosting plan and domain through Hostinger.
+2. Upload the project files via **File Manager** or **FTP/SFTP** to the `public_html` directory.
+3. Create a MySQL database and user through **hPanel**, then import the SQL file via **phpMyAdmin**.
+4. Update the database credentials in `config.php` to match the Hostinger MySQL details.
+5. Point the domain (or a subdomain) to the hosting account and enable **free SSL** from hPanel.
+6. Verify the live site loads correctly over `https://`.
 
 <div align="right"><a href="#-table-of-contents">⬆️ Back to top</a></div>
 
